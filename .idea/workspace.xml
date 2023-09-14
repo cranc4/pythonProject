@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2bf4df3-7b40-4126-8e43-7b169c4d4681" name="Changes" comment="Homework_5">
-      <change afterPath="$PROJECT_DIR$/Homework_6/task_1/date_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_6/task_1/main_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_6/task_2/main_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_6/task_2/queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_6/task_3/chess_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_6/task_3/main_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_7/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework_5" />
+        <entry key="$PROJECT_DIR$" value="Homework_6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,15 +32,19 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2UnPXAf9QligwuK1tMIxhKeWPA4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Homework__6"
+    "git-widget-placeholder": "Homework__7"
   }
 }]]></component>
   <component name="RunManager">
@@ -185,6 +185,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Merge pull request #2 from cranc4/Homework_2&#10;&#10;Homework 2" />
     <MESSAGE value="Homework_4" />
     <MESSAGE value="Homework_5" />
